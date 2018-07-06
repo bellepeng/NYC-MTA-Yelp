@@ -1,46 +1,28 @@
-# ReadMe
+# Readme
 
-## Smaller heading
-
-### Even smaller heading
-
-#### Tiny heading
-
-##### Basically just bold
-
-## A more top level heading
-
-This is **not** a good example of a README.
-
-It basically tells me nothing.
-
-Don't write like this.
-
-Here is my checklist of things to do:
-* Get the MTA data
+Here is our checklist of things to do:
+* Download the MTA data
 * Clean missing values
-* Lookup census data
-* Make predictions on which stations to use for signatures
-* ...
-* PROFIT!
+* Reset counters for entries / exits
+* Figure out the daily count for station traffic
+* Figure out the most populated stations
+* Convert ZIPs to stations
+* Look up census data, clean
+* Scrape the Yelp API to identify key indicators for our recommendation
+* Identify top restaurant locations from the Yelp data
 
-## Responsibiltiies
+## Responsibilities
+| Person | Responsibility |
+| -- | -- |
+| Tarek | Analyze the MTA data set |
+| Irene | Analyze the MTA data set |
+| Irene | Map ZIPS -> Stations |
+| Harmeet | Analyze the census data |
+| Belle | Analyze the Yelp data |
 
-| Person | Responsibilty |
-| ---    | ------- |
-| Belle  | Do stuff |
-
-## Acknowledgements
-
-*Some* help from Chad.
-
-But seriously, most of the work is mine.
 
 ## Priorities
 
-1. Make presentation
-2. Collect check
-3. Flight to Cayman Islands
-
-#### Try Editing
-
+* Identify "holy grail" stations, neighborhoods, and specific restaurants to target
+* Come up with ideas to help elevate the WTWN brand
+* Provide ideas for A/B market testing
